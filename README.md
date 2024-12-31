@@ -1,1 +1,1 @@
-# Dictionary-Search
+This Dictionary Search project allows users to search for word definitions in real-time. By entering a word and clicking the search button, users can quickly retrieve the meaning of the word. The project features a clean, user-friendly interface, a responsive layout, and an extensive word database.
